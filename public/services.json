@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.ibb.co.com/20kRN2H5/j-f-a-Pdn-Pyq1iyg-unsplash.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://i.ibb.co.com/q3XtMvD2/hayffield-l-ZVd-Zw2p08y4-unsplash.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Pet Bed Rentals",
+    "providerName": "WarmNest Supplies",
+    "providerEmail": "support@warmnest.com",
+    "price": 20,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Rent cozy heated beds to keep your pets snug throughout the coldest nights.",
+    "image": "https://i.ibb.co.com/PZrHR3gT/dom-heartley-6-Sq-FIc-5x4-unsplash.jpg",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Nutrition Consultation",
+    "providerName": "HealthyTails Vet Clinic",
+    "providerEmail": "contact@healthytails.com",
+    "price": 40,
+    "rating": 5.0,
+    "slotsAvailable": 2,
+    "description": "Get a customized winter diet plan to ensure your pet stays energized and healthy.",
+    "image": "https://i.ibb.co.com/pjrgCCv4/Leonardo-Lightning-XL-Best-Pet-Foods-for-USA-Pet-Lovers-0-1024x683.jpg",
+    "category": "Health"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Pet Winter Walking Assistance",
+    "providerName": "FurrySteps Agency",
+    "providerEmail": "steps@furrysteps.com",
+    "price": 18,
+    "rating": 4.6,
+    "slotsAvailable": 6,
+    "description": "Safe, short winter walks with trained handlers to prevent frostbite and overexposure.",
+    "image": "https://i.ibb.co.com/8Lm1RkQh/caglar-oskay-Ez-N21-PYm-LO4-unsplash.jpg",
+    "category": "Outdoor"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Health Check-up",
+    "providerName": "ArcticCare Veterinary",
+    "providerEmail": "vet@arcticcare.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Full-body winter health examination to detect cold-related issues early.",
+    "image": "https://i.ibb.co.com/b5fXZRYK/istockphoto-80340642.jpg",
+    "category": "Veterinary"
+  }
+]
